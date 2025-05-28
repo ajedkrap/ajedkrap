@@ -95,17 +95,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo" title="React Native"   />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" title="React Native"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4D1o5bjc7v1BpogoT8dzmyEcpOxz1fzwbA&s" height="40" alt="jetpack compose logo" title="Jetpack Compose" />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4D1o5bjc7v1BpogoT8dzmyEcpOxz1fzwbA&s" height="40" alt="jetpack compose logo"  />
+  <img src="https://cdn.prod.website-files.com/658002b040896ac0d98d8f10/65aa361ec1e467915cd85ac0_226917.svg" height="40" alt="swiftui logo" title="SwiftUI" />
   <img width="12" />
-  <img src="https://cdn.prod.website-files.com/658002b040896ac0d98d8f10/65aa361ec1e467915cd85ac0_226917.svg" height="40" alt="swiftui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo" title="Gradle" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/cocoapods-logo-svg-vector.svg" height="40" alt="cocoapods logo" title="Cocoapods" />
 </div>
 
 ###
@@ -171,6 +171,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
   <img width="12" />

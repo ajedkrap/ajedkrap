@@ -103,8 +103,6 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4D1o5bjc7v1BpogoT8dzmyEcpOxz1fzwbA&s" height="40" alt="jetpack compose logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=_BTyk4vBumjx&format=svg&color=000000" height="40" alt="swiftui logo"  />
-  <img width="12" />
   <img src="https://cdn.prod.website-files.com/658002b040896ac0d98d8f10/65aa361ec1e467915cd85ac0_226917.svg" height="40" alt="swiftui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />

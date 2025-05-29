@@ -79,7 +79,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo" title="Swift"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="40" alt="kotlin logo" title="Kotlin"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" height="40" alt="kotlin logo" title="Kotlin"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java"  />
   <img width="12" />

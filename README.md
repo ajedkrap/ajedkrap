@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">Passionate and Adaptive Mobile App Engineer</h4>
+<h4 align="center">Mobile App Development Enthusiast</h4>
 
 ###
 

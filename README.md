@@ -77,9 +77,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" title="Dart"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo" title="Swift"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" title="Swift" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" height="40" alt="kotlin logo" title="Kotlin"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" />   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java"  />
   <img width="12" />
@@ -200,7 +200,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ajedkrap&theme=tokyonight&column=6&row=2&margin-w=11&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ajedkrap&theme=tokyonight&column=6&row=2" height="150" alt="trophy graph"  />
 </div>
 
 ###

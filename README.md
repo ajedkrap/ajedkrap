@@ -101,7 +101,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" title="Flutter"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4D1o5bjc7v1BpogoT8dzmyEcpOxz1fzwbA&s" height="40" alt="jetpack compose logo" title="Jetpack Compose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpack compose logo" title="Jetpack Compose" />
   <img width="12" />
   <img src="https://cdn.prod.website-files.com/658002b040896ac0d98d8f10/65aa361ec1e467915cd85ac0_226917.svg" height="40" alt="swiftui logo" title="SwiftUI" />
   <img width="12" />

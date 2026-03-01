@@ -97,6 +97,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo" title="React Native"   />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="40" alt="expo logo" title="Expo"   />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" title="Flutter"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4D1o5bjc7v1BpogoT8dzmyEcpOxz1fzwbA&s" height="40" alt="jetpack compose logo" title="Jetpack Compose" />
@@ -110,7 +112,7 @@
 
 ###
 
-<h3 align="left">Backend</h3>
+<h3 align="left">Backend & DB</h3>
 
 ###
 
